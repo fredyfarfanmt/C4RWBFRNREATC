@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "tailwindcss": "^1.2.0"
+  }
+}
